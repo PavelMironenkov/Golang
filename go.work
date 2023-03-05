@@ -1,0 +1,11 @@
+go 1.19
+
+use (
+	.
+	04_net2/06_vendoring
+	05_web_app/6_modules
+	05_web_app/7_crudapp
+	05_web_app/99_hw/redditclone
+    06_databases/04_crudapp_db
+	06_databases/99_hw/redditclone
+)

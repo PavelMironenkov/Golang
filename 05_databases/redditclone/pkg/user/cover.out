@@ -1,0 +1,22 @@
+mode: set
+hw6/pkg/user/repo.go:19.54,23.2 1 1
+hw6/pkg/user/repo.go:25.80,30.26 5 1
+hw6/pkg/user/repo.go:33.2,33.24 1 1
+hw6/pkg/user/repo.go:36.2,36.15 1 1
+hw6/pkg/user/repo.go:30.26,32.3 1 1
+hw6/pkg/user/repo.go:33.24,35.3 1 1
+hw6/pkg/user/repo.go:39.77,44.26 5 1
+hw6/pkg/user/repo.go:61.2,61.18 1 1
+hw6/pkg/user/repo.go:44.26,47.27 3 1
+hw6/pkg/user/repo.go:52.3,53.16 2 1
+hw6/pkg/user/repo.go:56.3,56.23 1 1
+hw6/pkg/user/repo.go:47.27,49.4 1 1
+hw6/pkg/user/repo.go:49.8,51.4 1 1
+hw6/pkg/user/repo.go:53.16,55.4 1 1
+hw6/pkg/user/repo.go:57.7,59.3 1 1
+hw6/pkg/user/repo_mock.go:25.61,29.2 3 0
+hw6/pkg/user/repo_mock.go:32.59,34.2 1 0
+hw6/pkg/user/repo_mock.go:37.69,43.2 5 0
+hw6/pkg/user/repo_mock.go:46.85,49.2 2 0
+hw6/pkg/user/repo_mock.go:52.68,58.2 5 0
+hw6/pkg/user/repo_mock.go:61.84,64.2 2 0
